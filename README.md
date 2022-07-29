@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Android development using kotlin and jetpack compose**
 
-- 👨‍💻 All of my projects are available at [github/Dennis525](github/Dennis525)
-
 - 📫 How to reach me **dennodhia83@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
