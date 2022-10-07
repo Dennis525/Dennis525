@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennis525&label=Profile%20views&color=0e75b6&style=flat" alt="dennis525" /> </p>
 
-- 🔭 I’m currently working on **NoteApp**
+- 🔭 I’m currently working on **Android Kotlin projects**
 
 - 🌱 I’m currently learning **Android development using kotlin and jetpack compose**
 
